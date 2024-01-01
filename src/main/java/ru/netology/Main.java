@@ -1,3 +1,4 @@
 package ru.netology;
 
-public class Main { }
+public class Main {
+}
