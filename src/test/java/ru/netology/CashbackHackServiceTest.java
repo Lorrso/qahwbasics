@@ -25,7 +25,7 @@ public class CashbackHackServiceTest {
     }
 
     @Test
-    public void shouldBuyFromMaxAmount() {
+    public void findRemainFromMaxAmount() {
         int amount = 1000;
 
         int actual = service.remain(amount);
